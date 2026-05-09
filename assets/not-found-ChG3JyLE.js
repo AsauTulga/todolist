@@ -1,0 +1,1 @@
+import{c as o,j as s,L as e}from"./index-DgIroibx.js";const c=()=>{const{pathname:n}=o();return console.log(n),s.jsxs("div",{className:"container",children:[s.jsx("h1",{children:"404"}),n.includes("/posts")?s.jsx("p",{children:"Пост не найден либо был удален"}):s.jsx("p",{children:"Страница не найдена"}),s.jsx(e,{to:"/",children:"На главную"})]})};export{c as default};
