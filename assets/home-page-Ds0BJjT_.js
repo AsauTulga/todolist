@@ -1,0 +1,1 @@
+import{j as s}from"./index-CfHOvdKM.js";import{a as r}from"./App-CLuUYT-F.js";const a=()=>{const{user:e}=r();return s.jsxs("div",{className:"container",children:[s.jsx("h1",{children:"HOME PAGE"}),e&&s.jsxs("h2",{children:["Здравствуйте ",e.name,"! Как ваши дела?"]})]})};export{a as default};
